@@ -1,0 +1,8 @@
+*.log
+thumbs.db
+.DS_Store
+*~
+target/
+output/
+release/
+debug/
